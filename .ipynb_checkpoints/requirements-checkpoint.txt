@@ -1,0 +1,13 @@
+eli5
+numpy
+pandas
+seaborn
+tensorflow
+torch
+lightgbm
+matplotlib
+scikeras
+scikit-learn
+skorch
+xgboost
+yellowbrick
